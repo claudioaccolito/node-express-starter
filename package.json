@@ -1,0 +1,18 @@
+{
+  "name": "express-starter",
+  "version": "1.0.0",
+  "description": "Web app example with express js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Claudio Accolito",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
